@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        violete: "#372865",
+        text: "#7c7c7c",
+        hometext :"#353252"
       },
     },
   },
