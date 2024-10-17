@@ -1,4 +1,4 @@
-import Image from "next/image";
+'use client';
 import NavBar from "./components/Navbar";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
