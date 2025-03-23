@@ -13,7 +13,7 @@ const Body = (): JSX.Element => {
                 </p>
                     <Link href="" className=" underline">Learn more</Link>
                 </div>
-                <p className="text-4xl text-hometext text-center md:text-start">Build a highly engaged communty with no effort </p>
+                <p className="text-4xl font-medium text-hometext text-center md:text-start">Build a highly engaged communty with no effort </p>
                 <p className="text-text text-xs">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi animi porro dignissimos omnis cupiditate libero, incidunt itaque, maiores pariatur nesciunt, quod sapiente modi maxime eius.
                 </p>
